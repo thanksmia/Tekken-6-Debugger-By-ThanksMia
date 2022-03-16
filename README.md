@@ -1,5 +1,5 @@
 # Tekken 6 Debugger By ThanksMia
-
+![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/debuggerthanksmia1.PNG)
 
 This Debugger/hacktool was written in C++ using QT 5.15.2 it should be a representation on
 how to build a multimedia hack tool, that has good backend but also provides user feedback.
@@ -23,3 +23,6 @@ https://thanksmianews.com/tekken6debuggerbythanksmiav1-0/
 it will be tested and then added.
 
  ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/debuggersite2thanksmia.PNG)
+ 
+ # MLG Memes
+ ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/kyceating.gif)
