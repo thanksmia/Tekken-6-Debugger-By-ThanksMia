@@ -22,4 +22,4 @@ If you'd like to submit code for a hack  just  commit or go over to
 https://thanksmianews.com/tekken6debuggerbythanksmiav1-0/ 
 it will be tested and then added.
 
- 
+ ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/debuggersite2thanksmia.PNG)
