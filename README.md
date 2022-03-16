@@ -36,7 +36,7 @@ it will be tested and then added.
   ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/approved.gif)
    https://thanksmianews.com/tekken6debuggerbythanksmiav1-0/
   
-=======
+
  # MLG Memes
  ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/kyceating.gif)
 
