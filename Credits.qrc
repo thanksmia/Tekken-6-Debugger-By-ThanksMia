@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/video">
+        <file>resources/Nameless Song.mp3</file>
+        <file>resources/firelink.gif</file>
+    </qresource>
+</RCC>
