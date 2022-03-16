@@ -41,3 +41,7 @@ it will be tested and then added.
  ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/firelink.gif)
  https://thanksmianews.com/tekken6debuggerbythanksmiav1-0/
  
+ # Support Me 
+ ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/Buy_Me_a_Coffee_Logo.png)
+ https://www.buymeacoffee.com/thanksmia
+ 
