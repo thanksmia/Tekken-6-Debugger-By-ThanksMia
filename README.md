@@ -37,6 +37,7 @@ it will be tested and then added.
    https://thanksmianews.com/tekken6debuggerbythanksmiav1-0/
   
 
- # MLG Memes
- ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/kyceating.gif)
-
+ # Available at thanksmianews.com
+ ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/firelink.gif)
+ https://thanksmianews.com/tekken6debuggerbythanksmiav1-0/
+ 
