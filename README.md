@@ -24,7 +24,7 @@ it will be tested and then added.
 
  ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/debuggersite2thanksmia.PNG)
  
-<<<<<<< HEAD
+
  # Legendary Memes
  ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/kyceating.gif)
  
@@ -34,9 +34,9 @@ it will be tested and then added.
   
   # Want to add more hacks? join Github, or just comment below.
   ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/approved.gif)
-  Available at thanksmianews.com: https://thanksmianews.com/tekken6debuggerbythanksmiav1-0/
+   https://thanksmianews.com/tekken6debuggerbythanksmiav1-0/
   
 =======
  # MLG Memes
  ![alt text](https://github.com/thanksmia/Tekken-6-Debugger-By-ThanksMia/blob/master/kyceating.gif)
->>>>>>> 77cbe4eafd45da84da32edc1db7a5b10c38e408a
+
